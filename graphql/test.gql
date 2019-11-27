@@ -1,0 +1,6 @@
+query qqq {
+    product {
+        id
+        name
+    }
+}

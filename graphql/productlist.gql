@@ -1,0 +1,13 @@
+query productlist{
+productlist: product {
+    id
+    name
+    info
+    image
+    price
+    category
+    subCategory
+    date
+    sellerId
+    }
+}
