@@ -1,6 +1,8 @@
-# my-little-ticket
+# 마리켓(My Little Ticket)
 
 > My exquisite Nuxt.js project
+>
+> Nuxt.js를 활용한 마리켓 웹 프론트엔드
 
 ## Build Setup
 
